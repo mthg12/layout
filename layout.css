@@ -1,0 +1,68 @@
+.hh-header{
+    position: relative;
+    height: 170px;
+}
+.hh-logo{
+    position: absolute;
+    right: 0px;
+    width: 250px;
+    margin-top: 20px;
+}
+.hh-company{
+    font-family: impact;
+    font-size: 35px;
+    text-shadow: 0 0 2px black;
+    position: absolute;
+    top: 45px;
+    padding-bottom: 2px;
+    border-bottom: 1px dotted gray;
+}
+.hh-slogan{
+    position: absolute;
+    top: 100px;
+}
+.hh-sheet {
+    box-shadow: 0 0 5px lightgray;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    top: -8px;
+    margin-top: 20px;
+}
+.hh-sheet img{
+    padding-top: 30px;
+}
+.hh-body{
+    padding: 5px;
+}
+.hh-cart ul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    font-size: smaller;
+}
+.hh-cart img{
+    height: auto;
+    width: 30%;
+}
+.hh-card{
+    margin: 7px 0
+    ;
+}
+.hh-product {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.hh-product a {
+    text-decoration: none; 
+    color: inherit;
+}
+.hh-product .card-body {
+    padding: 5px 2px;
+    display: inline-block;
+}
+
+.hh-product .card-body img {
+    height: 150px;
+    max-width: 95%;
+}
